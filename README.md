@@ -1,0 +1,2 @@
+# ChangeGitRemoteUrlTool
+批量修改指定目录下所有git项目远程仓库url。用于私有git仓库服务域名修改时，批量修改本地url配置。
